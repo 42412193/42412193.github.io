@@ -1,0 +1,1 @@
+// const DEFAULT_COLORS = [210, 270, 255, 30, 285].map(item => `hsla(${item}, 100%, 50%, 1)`)
